@@ -1,29 +1,42 @@
-<p align="center">
-  <img src="./assets/nexa-banner.svg" alt="Nexa - cold-chain operations platform banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/upc-pre-202610-1asi0730-12242-king">
-    <img alt="Organization" src="https://img.shields.io/badge/GitHub-upc--pre--202610--1asi0730--12242--king-0F274A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img alt="Academic project" src="https://img.shields.io/badge/UPC-Aplicaciones%20Web-0EA5E9?style=for-the-badge" />
-  <img alt="Cycle" src="https://img.shields.io/badge/2026--10-Team%20King-38BDF8?style=for-the-badge" />
-</p>
+<br/>
 
-<h1 align="center">Nexa</h1>
+<img src="https://raw.githubusercontent.com/upc-pre-202610-1asi0730-12242-king/.github/main/profile/assets/nexa-logo.svg" alt="Nexa" width="200"/>
 
-<p align="center">
-  <strong>Cold-chain operations platform for coordinated B2B refrigerated commerce.</strong>
-</p>
+<br/><br/>
 
-<p align="center">
-  Nexa is an academic software project focused on helping teams coordinate sales, logistics,
-  warehouse inventory, invoicing, and catalog operations in cold-chain business workflows.
-</p>
+# Nexa
 
-<p align="center">
-  <img src="./assets/nexa-logo.svg" alt="Nexa logo" width="112" />
-</p>
+**Cold-chain operations platform for coordinated B2B refrigerated commerce**
+
+<br/>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+<br/>
+
+![Course](https://img.shields.io/badge/Course-1ASI0730%20Aplicaciones%20Web-0a2540?style=flat-square)
+![Cycle](https://img.shields.io/badge/Cycle-2026--10-0a2540?style=flat-square)
+![University](https://img.shields.io/badge/University-UPC-0a2540?style=flat-square)
+![Team](https://img.shields.io/badge/Team-King-2a67d9?style=flat-square)
+![Status](https://img.shields.io/badge/Status-AV2%20Active-22c55e?style=flat-square)
+
+<br/>
+
+🌐 **[View Live Site →](https://upc-pre-202610-1asi0730-12242-king.github.io/nexa-website/)**
+
+<br/>
+
+</div>
+
+---
+
+## What is Nexa?
+
+Nexa is an academic software platform that streamlines B2B refrigerated commerce. It replaces manual logistics and unscheduled communications with structured digital workflows, giving B2B buyers and distributors shared visibility over orders, inventory levels, routes, and invoices.
 
 ---
 
@@ -32,38 +45,42 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-webapp">nexa-webapp</a></h3>
-      <p>Frontend web application for operational workflows and user-facing platform screens.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-website">nexa-website</a></p>
+      <p>Public landing website and central product entry point.</p>
+      <p><a href="https://upc-pre-202610-1asi0730-12242-king.github.io/nexa-website/">Open Live Website</a></p>
       <p>
-        <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-35495E?logo=vue.js&logoColor=4FC08D" />
-        <img alt="Vite" src="https://img.shields.io/badge/Vite-0F274A?logo=vite&logoColor=FFD62E" />
-        <img alt="PrimeVue" src="https://img.shields.io/badge/PrimeVue-0EA5E9" />
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-static-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-responsive-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-website">nexa-website</a></h3>
-      <p>Public website and landing experience for presenting the Nexa product concept.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-webapp">nexa-webapp</a></p>
+      <p>Main web application for operational workflows and buyer-facing coordination.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-webapp/wiki">Open Engineering Wiki</a></p>
       <p>
-        <img alt="Website" src="https://img.shields.io/badge/Website-public%20site-2563EB" />
-        <img alt="Brand" src="https://img.shields.io/badge/Brand-Nexa-38BDF8" />
+        <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+        <img alt="Vite" src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=FFD62E" />
+        <img alt="PrimeVue" src="https://img.shields.io/badge/PrimeVue-0EA5E9?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-platform">nexa-platform</a></h3>
-      <p>Platform and backend work area for API, domain, and future infrastructure concerns.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-platform">nexa-platform</a></p>
+      <p>Platform and backend work area for API, domain, and infrastructure concerns.</p>
       <p>
-        <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-planned-512BD4?logo=dotnet&logoColor=white" />
-        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-future%20deployment-FFCA28?logo=firebase&logoColor=111827" />
+        <img alt="Platform" src="https://img.shields.io/badge/Platform-backend%20workspace-512BD4?style=flat-square" />
+        <img alt="API" src="https://img.shields.io/badge/API-domain%20services-0EA5E9?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-report">nexa-report</a></h3>
-      <p>Academic report, product research, architecture documentation, and project evidence.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-report.">nexa-report</a></p>
+      <p>Academic report, product research, backlog, architecture documentation, and project evidence.</p>
+      <p><a href="https://github.com/upc-pre-202610-1asi0730-12242-king/nexa-report.">Open Report Repository</a></p>
       <p>
-        <img alt="Documentation" src="https://img.shields.io/badge/Documentation-report-0F274A" />
-        <img alt="UPC" src="https://img.shields.io/badge/UPC-course%20evidence-0EA5E9" />
+        <img alt="Documentation" src="https://img.shields.io/badge/Documentation-report-0F172A?style=flat-square" />
+        <img alt="UPC" src="https://img.shields.io/badge/UPC-course%20evidence-0EA5E9?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -71,100 +88,52 @@
 
 ---
 
-## Product Focus
+## Product Areas
 
-Nexa explores how a B2B cold-chain team can align commercial decisions with inventory,
-dispatch, and documentation workflows. The project emphasizes traceability, bounded contexts,
-and a clean web interface for internal operations.
-
-| Area | Project Focus |
-| --- | --- |
-| Sales | Order intake, commercial validation, customer requests, and sales coordination. |
-| Logistics | Dispatch planning, delivery tracking, and operational visibility. |
-| Warehouse | Inventory lots, stock movements, warehouse status, and cold-chain handling. |
-| Invoicing | Business documents, invoicing support, and document status follow-up. |
-| Catalog Management | Product catalog organization for refrigerated B2B commerce. |
-
-```mermaid
-flowchart LR
-  C[Catalog Management] --> S[Sales]
-  S --> W[Warehouse]
-  W --> L[Logistics]
-  S --> I[Invoicing]
-  L --> I
-```
+| Area | Purpose | Bounded Context |
+| :--- | :--- | :--- |
+| **Sales** | Manages B2B order registration, client accounts, and purchase workflow coordination. | `Sales` |
+| **Logistics** | Handles route tracking, delivery dispatch sheets, and shipment progress. | `Logistics` |
+| **Warehouse** | Coordinates cold-storage lots, inventory stock level movements, and cold-chain status. | `Warehouse` |
+| **Invoicing** | Automatically creates and tracks transaction records and invoice-ready evidence. | `Invoicing` |
+| **Catalog** | Publishes active products, cold food categories, and custom client pricing. | `Catalog` |
 
 ---
 
-## Technology Stack
+## Delivery Practices
 
-| Layer | Technologies |
-| --- | --- |
-| Frontend | Vue 3, Vite, PrimeVue, JavaScript, HTML, CSS |
-| Platform | ASP.NET Core as planned backend direction |
-| Deployment | Firebase considered for future deployment |
-| Documentation | Markdown, diagrams, academic report assets |
-| Collaboration | GitHub repositories, pull requests, issue tracking |
-
-<p>
-  <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-0F274A?logo=vue.js&logoColor=4FC08D" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-0F274A?logo=vite&logoColor=FFD62E" />
-  <img alt="PrimeVue" src="https://img.shields.io/badge/PrimeVue-0EA5E9" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-2563EB?logo=dotnet&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-future-38BDF8?logo=firebase&logoColor=111827" />
-</p>
-
----
-
-## Engineering Workflow
-
-| Practice | Purpose |
-| --- | --- |
-| GitFlow | Organize feature, release, and integration work across repositories. |
-| Semantic Versioning | Communicate version intent clearly as the project evolves. |
-| Conventional Commits | Keep commit history consistent and readable. |
-| Pull Requests | Review changes before integration and document decisions. |
-| Bounded Contexts | Keep business capabilities organized around domain concerns. |
-
-Recommended commit style:
-
-```text
-feat(scope): add new capability
-fix(scope): correct behavior
-docs(scope): update documentation
-refactor(scope): improve structure without changing behavior
-```
-
----
-
-## Academic Context
-
-| Item | Detail |
-| --- | --- |
-| University | UPC |
-| Course | Aplicaciones Web |
-| Academic Cycle | 2026-10 |
-| Team | Team King |
-| Organization | `upc-pre-202610-1asi0730-12242-king` |
+| Practice | Purpose | Detail |
+| :--- | :--- | :--- |
+| **GitFlow** | Orderly branch management | Dynamic isolation across `main`, `develop`, and context `feature/*` branches. |
+| **Conventional Commits** | Structured change history | Standard `type(scope): description` semantic logs. |
+| **Semantic Versioning** | Track delivery releases | Clearly communicating release state progression milestones. |
+| **Domain Isolation** | Modular architecture | Decoupled aggregates mapped to precise team responsibilities. |
 
 ---
 
 ## Team
 
-<table>
-  <tr>
-    <th align="left">Team</th>
-    <th align="left">Focus</th>
-  </tr>
-  <tr>
-    <td><strong>Team King</strong></td>
-    <td>Nexa product design, web application development, platform planning, and academic documentation.</td>
-  </tr>
-</table>
+| Member | Code | Focus | GitHub |
+| :--- | :--- | :--- | :--- |
+| **Yucra Sandoval, Diego Sebastian** | U202323040 | Team Leader / Sales | [DiegoS284](https://github.com/DiegoS284) |
+| **Marín Cueva, César Fernando** | U202411937 | Logistics & Sales | [Cmarin2802](https://github.com/Cmarin2802) |
+| **Verde Bueno, Joaquín Francisco** | U20241A054 | Warehouse | [JoaquinVerde115](https://github.com/JoaquinVerde115) |
+| **Torrejón De Los Santos, Gino Rodrigo**| U202416289 | Catalog & Warehouse | [R0obxdnt-bit](https://github.com/R0obxdnt-bit) |
+| **Rojas Mancilla, Gerard Gianpier** | U202413142 | Invoicing | [GerardRojasMancilla](https://github.com/GerardRojasMancilla) |
+
+---
+
+## Academic Context
+
+| Item | Details |
+| :--- | :--- |
+| **University** | Universidad Peruana de Ciencias Aplicadas (UPC) |
+| **Course** | Aplicaciones Web (*1ASI0730*) |
+| **Academic Cycle** | 2026-10 |
+| **Course Focus** | Validating B2B Cold-Chain Distribution Platform UI & Architecture |
 
 ---
 
 <p align="center">
-  <strong>Nexa</strong><br />
-  Clean operational software for cold-chain coordination.
+  <strong>Nexa Platform</strong> · Universidad Peruana de Ciencias Aplicadas · 2026-10
 </p>
